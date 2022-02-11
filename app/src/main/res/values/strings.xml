@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Top</string>
+    <string name="app_name">荷物管理アプリ POKKE</string>
 
 
     <string name="dialog_title">荷物登録確認</string>
